@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @jkornbleuth
-- 👀 I’m interested in Pasta
+#jkornbleuth.github.io
 
 
 <!---
