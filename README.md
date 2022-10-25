@@ -1,4 +1,4 @@
-https://jkornbleuth.github.io/index.html
+https://jkornbleuth.github.io/Index.html
 
 
 <!---
